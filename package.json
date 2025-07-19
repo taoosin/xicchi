@@ -1,8 +1,23 @@
 {
-  "name": "netlify-github-token-api",
+  "name": "uploaded",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "build": "echo 'No build needed. Only functions.'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaminDeveloper/Uploaded.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaminDeveloper/Uploaded/issues"
+  },
+  "homepage": "https://github.com/YaminDeveloper/Uploaded#readme",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
 }
